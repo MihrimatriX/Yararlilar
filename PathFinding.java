@@ -25,8 +25,8 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import javax.swing.JComboBox;
 
-public class PathFinding {
-	
+public class PathFinding 
+{	
 	//FRAME
 	JFrame frame;
 	//GENERAL VARIABLES
