@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Yararlilar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Maze80.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Path Finding.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

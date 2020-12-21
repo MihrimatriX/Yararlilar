@@ -1,2 +1,4 @@
-# Yararlilar
+# Yararlılar
 Yararlı olabilecek kod parçacıkları...
+
+

@@ -6,6 +6,10 @@ import javafx.stage.*;
 
 public class DegisFrame extends Application 
 {
+    /**
+     * Frame Değiştirme JavaFX
+     */
+
     Stage window;
     Scene scene1, scene2;
     
